@@ -1,2 +1,3 @@
-# POSIX-compatible-shell
-Developed a working POSIX compatible shell. Apart from basic working, maintained a configuration file which program reads on startup and sets the environment accordingly,Aliasing support for commands,implemented a reminder or alarm feature in shell and also other features like pipes,redirection (single and double redirection),execution of commands,handled foreground and background pocess etc.
+# MyShell
+
+OS Assignment

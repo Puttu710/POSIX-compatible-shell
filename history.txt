@@ -1,0 +1,125 @@
+ls
+ps
+alarm 15
+exit
+alarm 10
+alarm 5
+alarm 15
+alarm 20
+exit
+alarm 15
+alarm 20
+alarm 25
+alarm 30
+exit
+alarm 20
+alarm 30
+alarm 15
+alarm 35
+exit
+alarm 5
+alarm 10
+alarm 15
+exit'
+alarm 10
+alarm 15
+alarm 20
+exit
+exit
+alarm 15
+alarm 20
+alarm 30
+exit
+exit
+exit
+alias
+l
+la
+PS1=dhama
+printenv
+PS1=dhamo
+alias lll='ls -l'
+lll
+echo $$
+echo $?
+ls sjfkhdksjfh
+echo $?
+ls
+cd try.cpp a
+cp try.cpp a
+ls
+history
+record start
+echo hello
+echo dhama
+echo hello divy
+echo bye
+record stop
+record start
+echo hello
+echo bye
+record stop
+exit
+record start
+echo hello
+record stop
+echo $x
+x=1
+y=2
+z=3
+export x
+export
+x=11
+export
+./a.out
+export
+echo $x
+echo $y
+echo $z
+a=1
+export a
+export
+./a.out
+echo $x $a
+alarm 5
+alarm 10
+exit
+alarm 10
+alarm 15
+exit
+exit
+ls | wc
+ls | wc > a
+cat a
+ls
+cat a
+ls | wc
+ls | wc > a
+cat a
+ls | wx
+ls | wc
+ls | wc >> a.txt
+cat a.txt
+ls
+gedit b.txt
+cat b.txt | sort | uniq 
+cat b.txt|sort|uniq > a.txt
+cat a.txt
+cat b.txt
+cat b.txt|sort|uniq > a.txt
+cat a.txt
+cat b.txt|sort|uniq > a.txt
+cat b.txt|sort|u
+cat b.txt | sort | uniq
+cat a.txt
+cat b.txt | sort | uniq | wc > a.txt
+cat a.txt
+PS1=riya
+exit
+open history.txt
+open "001 001.jpg"
+open 1.jpg
+open 1.jpg
+open 1.jpg
+open ValueCertificate.pdf
+exit
